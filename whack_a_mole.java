@@ -10,7 +10,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
-public class final_project {
+public class whack_a_mole {
 
 	static Frame frame = new Frame("final_project");
 	static JButton btn[][] = new JButton[3][3];
