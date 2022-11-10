@@ -26,7 +26,7 @@ public class whack_a_mole {
 	static long setTime[][] = new long[3][3];
 	static long lastSet = Long.MAX_VALUE;
 	static MenuBar mb = new MenuBar();
-	static Menu menu1 = new Menu("Fuction");
+	static Menu menu1 = new Menu("Function");
 	static MenuItem menu11 = new MenuItem("Scoreboard");
 	static MenuItem menu13 = new MenuItem("Clear Scoreboard");
 	static MenuItem menu12 = new MenuItem("Exit");
